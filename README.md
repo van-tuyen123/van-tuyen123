@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/vantuyen.3011/**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Tourism and Learn new things🎵 are the reasons to live.
 
 <br>
 
