@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Van Tuyen</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Student at Dai Hoc Phenikaa</h3>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **https://www.facebook.com/vantuyen.3011/**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
